@@ -1,1 +1,2 @@
-modified file while in staging area, expecting warning from git 
+modified file while in staging area, expecting warning from git
+modified after commiting

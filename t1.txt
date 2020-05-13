@@ -1,1 +1,2 @@
  this is a line for testing git
+ added this in order to do a git diff

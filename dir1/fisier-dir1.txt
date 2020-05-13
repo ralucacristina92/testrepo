@@ -1,0 +1,1 @@
+acest fiser nu este in .gitignore si deci este commit'uit
